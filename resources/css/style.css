@@ -1,12 +1,49 @@
 body {
   font-family: Helvetica; sans-serif;
   text-align: center;
-
+  font-size: 14px;
 }
+
+
+.nav {
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+}
+
+
+.flatiron-background {
+  background-image: url("file:///Users/anthony/Broadway/resources/images/the-flatiron-building.png");
+}
+
 
 .header {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
 
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+
+.small-title {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+#designed {
+  color: white;
+}
+
+
+.footer {
+  text-align: left;
+  color: white;
+  font-size: 11px;
+  background-color: dimgray;
 }
