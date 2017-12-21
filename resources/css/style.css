@@ -36,14 +36,14 @@ body {
 }
 
 
-#designed {
-  color: white;
-}
-
-
 .footer {
   text-align: left;
   color: white;
   font-size: 11px;
   background-color: dimgray;
+}
+
+
+#designed {
+  color: white;
 }
